@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Danil%20Savitskiy&section=header&desc=Full-Stack%20Engineer&fontAlign=50" width="100%">
 </p>
- <img src="https://git.tensor.kz/api?width=1920&height=300&fontSize=20&speed=1&color=00FF41&bgColor=000000&density=0.8&text=Danil+Savitskiy&textSize=60&textColor=00FF41&textX=50&textY=50&format=svg">
+ <img src="https://git.tensor.kz/api?width=1920&height=300&fontSize=20&speed=3&color=00FF41&bgColor=000000&density=1&text=Danil+Savitskiy&textSize=60&textColor=00FF41&textX=50&textY=50&format=svg">
 ## Обо мне
 Full-Stack разработчик с глубокой экспертизой в проектировании сложных бизнес-систем. Ключевой опыт: разработка полнофункциональной CRM-системы с нуля, включая архитектуру базы данных, сложную бизнес-логику на Backend и интерактивный Frontend. 
 
