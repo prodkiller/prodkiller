@@ -31,8 +31,8 @@ Full-Stack разработчик с глубокой экспертизой в 
 </p>
 
 ## Аналитика разработки (Metrics)
-<p align="center">
-  <img src="https://raw.githubusercontent.com/prodkiller/prodkiller/main/github-metrics.svg" width="25%">
+<p align="left">
+  <img src="https://raw.githubusercontent.com/prodkiller/prodkiller/main/github-metrics.svg" width="40%">
 </p>
 
 ---
