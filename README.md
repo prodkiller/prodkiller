@@ -3,9 +3,9 @@
 </p>
 
 ## Обо мне
-Опытный Full-Stack разработчик с глубокой экспертизой в построении сложных бизнес-систем. Мой главный проект — разработка масштабной CRM-системы с нуля, включая архитектуру базы данных, сложную бизнес-логику на Backend и интерактивный Frontend. 
+Full-Stack разработчик с глубокой экспертизой в проектировании сложных бизнес-систем. Ключевой опыт: разработка полнофункциональной CRM-системы с нуля, включая архитектуру базы данных, сложную бизнес-логику на Backend и интерактивный Frontend. 
 
-Имею большой опыт интеграции сторонних сервисов: WhatsApp API, Instagram Graph API, SMS-шлюзы и платежные системы.
+Специализируюсь на интеграции сторонних сервисов: WhatsApp API, Instagram Graph API, SMS-шлюзы и платежные системы.
 
 ---
 
@@ -30,39 +30,31 @@
   <img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black" />
 </p>
 
-
 ---
 
 ## Уровень владения технологиями
 
-**Backend & Core**
-Python 
-![100%](https://progress-bar.dev/100/?scale=100&title=Expert&width=200&color=3776AB) 
-PHP (Standalone) 
-![100%](https://progress-bar.dev/100/?scale=100&title=Expert&width=200&color=777BB4)
-Docker (Isolation)
-![100%](https://progress-bar.dev/100/?scale=100&title=Ready&width=200&color=2496ED)
+**Backend & Core** <br>
+Python ![100%](https://progress-bar.dev/100/?scale=100&title=Expert&width=250&color=3776AB) <br>
+PHP ![100%](https://progress-bar.dev/100/?scale=100&title=Expert&width=250&color=777BB4) <br>
+Docker (Isolation) ![100%](https://progress-bar.dev/100/?scale=100&title=Proven&width=250&color=2496ED)
 
-**Frontend & Mobile**
-Flutter
-![94%](https://progress-bar.dev/94/?scale=100&title=Advanced&width=200&color=02569B)
-React
-![87%](https://progress-bar.dev/87/?scale=100&title=Advanced&width=200&color=61DAFB)
-React Native
-![80%](https://progress-bar.dev/80/?scale=100&title=Proficient&width=200&color=61DAFB)
+**Frontend & Mobile** <br>
+Flutter ![94%](https://progress-bar.dev/94/?scale=100&title=Advanced&width=250&color=02569B) <br>
+React ![87%](https://progress-bar.dev/87/?scale=100&title=Advanced&width=250&color=61DAFB) <br>
+React Native ![80%](https://progress-bar.dev/80/?scale=100&title=Proficient&width=250&color=61DAFB)
 
----
 ---
 
 ## Компетенции
-- **Soft Skills:** Аналитическое мышление, управление полным циклом разработки (SDLC), менторство, решение проблемных ситуаций на продакшене.
-- **Интересы:** Высоконагруженные системы, архитектура микросервисов, автоматизация маркетинга и информационная безопасность.
+- **Soft Skills:** Аналитическое мышление, управление полным циклом разработки (SDLC), менторство, инцидент-менеджмент на продакшене.
+- **Интересы:** Высоконагруженные системы, архитектура микросервисов, автоматизация бизнес-процессов, Cybersecurity.
 
 ---
 
 ## Аналитика разработки (Metrics)
 <p align="center">
-  <img src="https://raw.githubusercontent.com/prodkiller/prodkiller/main/github-metrics.svg" width="50%">
+  <img src="https://raw.githubusercontent.com/prodkiller/prodkiller/main/github-metrics.svg" width="100%">
 </p>
 
 ---
