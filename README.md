@@ -30,6 +30,28 @@
   <img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black" />
 </p>
 
+
+---
+
+## Уровень владения технологиями
+
+**Backend & Core**
+Python 
+![100%](https://progress-bar.dev/100/?scale=100&title=Expert&width=200&color=3776AB) 
+PHP (Standalone) 
+![100%](https://progress-bar.dev/100/?scale=100&title=Expert&width=200&color=777BB4)
+Docker (Isolation)
+![100%](https://progress-bar.dev/100/?scale=100&title=Ready&width=200&color=2496ED)
+
+**Frontend & Mobile**
+Flutter
+![94%](https://progress-bar.dev/94/?scale=100&title=Advanced&width=200&color=02569B)
+React
+![87%](https://progress-bar.dev/87/?scale=100&title=Advanced&width=200&color=61DAFB)
+React Native
+![80%](https://progress-bar.dev/80/?scale=100&title=Proficient&width=200&color=61DAFB)
+
+---
 ---
 
 ## Компетенции
