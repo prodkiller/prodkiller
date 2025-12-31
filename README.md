@@ -3,20 +3,28 @@
 </p>
 
 ## Обо мне
-Full-Stack разработчик с фокусом на создание масштабируемых веб-приложений и эффективную работу с данными. Занимаюсь как проектированием бэкенд-логики, так и созданием современных интерфейсов.
+Full-Stack разработчик. Специализируюсь на Python/Django бэкенде и React/TypeScript фронтенде. Занимаюсь контейнеризацией приложений и проектированием баз данных.
 
 ---
 
 ## Технологический стек
 
-**Backend:**
-- Python / Django
-- MySQL / PostgreSQL / Redis
-- Docker
+### Backend & Infrastructure
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+</p>
 
-**Frontend:**
-- React / TypeScript / JavaScript
-- HTML5 / CSS3
+### Frontend
+<p align="left">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+</p>
 
 ---
 
@@ -31,9 +39,11 @@ Full-Stack разработчик с фокусом на создание мас
 
 ## Контакты
 
-- **Telegram:** [@d_angel_p](https://t.me/d_angel_p)
-- **Instagram:** [@dl.angel.lb](https://instagram.com/dl.angel.lb)
-- **Email:** aitionstar@gmail.com
+<p align="left">
+  <a href="https://t.me/d_angel_p" target="blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white" /></a>
+  <a href="https://instagram.com/dl.angel.lb" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" /></a>
+  <a href="mailto:aitionstar@gmail.com" target="blank"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+</p>
 
 <br/>
 
