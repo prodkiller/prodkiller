@@ -40,7 +40,7 @@
 
 ## Аналитика разработки (Metrics)
 <p align="center">
-  <img src="https://github.com/prodkiller/prodkiller/blob/main/metrics_renders/github-metrics.svg" width="100%">
+  <img src="https://raw.githubusercontent.com/prodkiller/prodkiller/main/github-metrics.svg" width="100%">
 </p>
 
 ---
