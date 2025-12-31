@@ -57,5 +57,5 @@ Full-Stack разработчик с глубокой экспертизой в 
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Danil%20Savitskiy&section=header&desc=Full-Stack%20Engineer&fontAlign=50" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Thanks%20for%20watching&section=footer&desc=With%20love,%20prodkiller💜&fontAlign=50&descAlignY=65" width="100%">
 </p>
