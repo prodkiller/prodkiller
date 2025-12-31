@@ -30,19 +30,9 @@ Full-Stack разработчик с глубокой экспертизой в 
   <img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black" />
 </p>
 
----
-
-## География активности
-Базируюсь в **Казахстане**, работаю с проектами по всему миру, включая **Европу**.
-
-<p align="center">
- <a href="https://info.flagcounter.com/eDDo"><img src="https://s01.flagcounter.com/count2/eDDo/bg_4A4A4A/txt_B98AFF/border_000000/columns_2/maxflags_10/viewers_0/labels_0/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0"></a></p>
-
----
-
 ## Аналитика разработки (Metrics)
 <p align="center">
-  <img src="https://raw.githubusercontent.com/prodkiller/prodkiller/main/github-metrics.svg" width="100%">
+  <img src="https://raw.githubusercontent.com/prodkiller/prodkiller/main/github-metrics.svg" width="25%">
 </p>
 
 ---
