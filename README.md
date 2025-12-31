@@ -4,7 +4,9 @@
 
 <img src = "https://git.tensor.kz/api/terminal?width=1920&height=1080&bgColor=transparent&prompt=%3E&promptColor=00FF41&commandColor=00FF41&outputColor=00FF41&fontSize=50&lineHeight=1.6&animateTyping=true&commands[0][prompt]=%3E&commands[0][command]=whoami&commands[0][output]=danil&commands[1][prompt]=%3E&commands[1][command]=cd%20home%2Fdanil%2Fprojects&commands[1][output]=&commands[2][prompt]=%3E&commands[2][command]=ls%20-la&commands[2][output]=total%203%0A&commands[3][prompt]=%3E&commands[3][command]=my%20projects&commands[3][output]=%3E%20QazCRM%0A%3E%20SetApp%0A%3E%20AI%20-%20Agents">
 
+<p align="left">
 <img src = "https://git.tensor.kz/api/ascii?width=800&height=400&bgColor=transparent&fontSize=16&lineHeight=1.2&color=00FF41&x=50&y=50&animateTyping=true&cropEmpty=false&text3D=Tennet&depth3D=3&shadow3D=false&rotate3D=false&rotateSpeed=10&font3D=3D-ASCII">
+</p>
 ---
 
 ## Технологический стек
