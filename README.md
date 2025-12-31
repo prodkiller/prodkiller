@@ -3,7 +3,7 @@
 </p>
 
 ## Обо мне
-Full-Stack разработчик с глубокой экспертизой в проектировании сложных бизнес-систем. Ключевой опыт: разработка полнофункциональной CRM-системы с нуля, включая архитектуру базы данных, сложную бизнес-логику на Backend и интерактивный Frontend. 
+Full-Stack разработчик с упором на архитектуру сложных систем. Ключевой опыт: проектирование и реализация полнофункциональной CRM-системы с нуля, включая архитектуру базы данных, сложную бизнес-логику на Backend и интерактивный Frontend. 
 
 Специализируюсь на интеграции сторонних сервисов: WhatsApp API, Instagram Graph API, SMS-шлюзы и платежные системы.
 
@@ -32,30 +32,18 @@ Full-Stack разработчик с глубокой экспертизой в 
 
 ---
 
-## Уровень владения технологиями
+## Аналитика разработки (Metrics)
+Здесь представлена автоматическая статистика моей активности и используемых технологий на основе данных GitHub.
 
-**Backend & Core** <br>
-Python ![100%](https://progress-bar.dev/100/?scale=100&title=Expert&width=250&color=3776AB) <br>
-PHP ![100%](https://progress-bar.dev/100/?scale=100&title=Expert&width=250&color=777BB4) <br>
-Docker (Isolation) ![100%](https://progress-bar.dev/100/?scale=100&title=Proven&width=250&color=2496ED)
-
-**Frontend & Mobile** <br>
-Flutter ![94%](https://progress-bar.dev/94/?scale=100&title=Advanced&width=250&color=02569B) <br>
-React ![87%](https://progress-bar.dev/87/?scale=100&title=Advanced&width=250&color=61DAFB) <br>
-React Native ![80%](https://progress-bar.dev/80/?scale=100&title=Proficient&width=250&color=61DAFB)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/prodkiller/prodkiller/main/github-metrics.svg" width="100%">
+</p>
 
 ---
 
 ## Компетенции
 - **Soft Skills:** Аналитическое мышление, управление полным циклом разработки (SDLC), менторство, инцидент-менеджмент на продакшене.
 - **Интересы:** Высоконагруженные системы, архитектура микросервисов, автоматизация бизнес-процессов, Cybersecurity.
-
----
-
-## Аналитика разработки (Metrics)
-<p align="center">
-  <img src="https://raw.githubusercontent.com/prodkiller/prodkiller/main/github-metrics.svg" width="100%">
-</p>
 
 ---
 
