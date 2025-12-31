@@ -36,8 +36,7 @@ Full-Stack разработчик с глубокой экспертизой в 
 Базируюсь в **Казахстане**, работаю с проектами по всему миру, включая **Европу**.
 
 <p align="center">
-  <a href="https://info.flagcounter.com/8NSt"><img src="https://s11.flagcounter.com/map/8NSt/size_m/txt_000000/border_CCCCCC/pageviews_1/viewers_0/flags_0/" alt="Посетители профиля" border="0"></a>
-</p>
+ <a href="https://info.flagcounter.com/eDDo"><img src="https://s01.flagcounter.com/count2/eDDo/bg_4A4A4A/txt_B98AFF/border_000000/columns_2/maxflags_10/viewers_0/labels_0/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0"></a></p>
 
 ---
 
